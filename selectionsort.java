@@ -1,6 +1,5 @@
 // 	Name:			Daniel Ramirez
-// 	Assignment #:	5
-// 	Problem #:		2
+// 	Sort:                   SelectionSort
 
 import java.util.Arrays;
 import java.util.Scanner;
